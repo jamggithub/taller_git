@@ -29,5 +29,5 @@ Abel España (@abelespana).
 
 
 #### Segunda edición:
-Juan Antonio Lleó
+Juan Antonio Lleó,
 Maier
